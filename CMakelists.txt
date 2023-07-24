@@ -4,13 +4,5 @@ project("TicTacToe")
 
 file(GLOB SOURCES "src/*.cpp")
 
-add_executable("TicTacToe" "src/main.cpp")
+add_executable("TicTacToe" ${SOURCES})
 
-
-if(UNIX)
-    set(CMAKE_GENERATOR "Unix Makefiles" CACHE INTERNAL "")  
-endif()
-
-if(WIN32)
-    set(CMAKE_GENERATOR "MinGW Makefiles" CACHE INTERNAL "")
-endif()

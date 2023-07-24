@@ -1,4 +1,16 @@
 cmake_minimum_required(VERSION "3.0")
 
-project("Tic Tac Toe")
-add_executable("Tic Tac Toe" "tic_tac_toe.cpp")
+project("TicTacToe")
+
+file(GLOB SOURCES "src/*.cpp")
+
+add_executable("TicTacToe" "src/main.cpp")
+
+
+if(UNIX)
+    set(CMAKE_GENERATOR "Unix Makefiles" CACHE INTERNAL "")  
+endif()
+
+if(WIN32)
+    set(CMAKE_GENERATOR "MinGW Makefiles" CACHE INTERNAL "")
+endif()

@@ -32,12 +32,11 @@
 *.app
 
 # CMake build artifacts
-/build/
-CMakeCache.txt
+build/
 compile_commands.json
 
 # Visual Studio Code specific files
-.vscode/
+/.vscode
 
 # IDE-specific files (e.g., Visual Studio, Xcode)
 *.sln

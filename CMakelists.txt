@@ -1,0 +1,4 @@
+cmake_minimum_required(VERSION "3.0")
+
+project("Tic Tac Toe")
+add_executable("Tic Tac Toe" "tic_tac_toe.cpp")

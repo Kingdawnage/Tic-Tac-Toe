@@ -1,3 +1,0 @@
-C:/Users/katch/Documents/.Coding/C++/Tic Tac Toe/build/CMakeFiles/TicTacToe.dir
-C:/Users/katch/Documents/.Coding/C++/Tic Tac Toe/build/CMakeFiles/edit_cache.dir
-C:/Users/katch/Documents/.Coding/C++/Tic Tac Toe/build/CMakeFiles/rebuild_cache.dir

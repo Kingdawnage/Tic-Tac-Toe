@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/katch/Documents/.Coding/C++/Tic Tac Toe/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\TicTacToe.dir\\src\\main.cpp.obj -c \"C:\\Users\\katch\\Documents\\.Coding\\C++\\Tic Tac Toe\\src\\main.cpp\"",
+  "file": "C:/Users/katch/Documents/.Coding/C++/Tic Tac Toe/src/main.cpp",
+  "output": "CMakeFiles/TicTacToe.dir/src/main.cpp.obj"
+}
+]

@@ -1,7 +1,0 @@
-
-# CMake build artifacts
-build/
-compile_commands.json
-/.vscode
-/.vs
-CMakeSettings.json

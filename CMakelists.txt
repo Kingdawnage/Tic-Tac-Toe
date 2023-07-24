@@ -5,4 +5,3 @@ project("TicTacToe")
 file(GLOB SOURCES "src/*.cpp")
 
 add_executable("TicTacToe" ${SOURCES})
-
